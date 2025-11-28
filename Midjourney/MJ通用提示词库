@@ -1,0 +1,22 @@
+# 🌌 我的 Midjourney 提示词库
+
+这里记录我创作的高质量 MJ 提示词。
+
+## 1. 史诗级科幻与水印 (Epic Sci-Fi)
+
+这是关于那个巨大圆环传送门的画面，包含了我的个人水印。
+
+**画面描述:**
+- 巨大的奥术机械圆环
+- 渺小的背影人物
+- 丁达尔光效 (God Rays)
+
+**📋 提示词代码 (点右上角复制):**
+```text
+Awe-inspiring cinematic masterpiece, sweeping ultra-wide angle landscape shot. A minuscule lone female figure with short dark hair, wearing a white jumpsuit, stands centered, dwarfed by the immense scale, on a wet reflective ancient stone floor. She looks up at a colossal, monolithic arcane gateway structure dominating the entire horizon. This massive device resembles a celestial glowing rose window, pulsing with blindingly intense bioluminescent cyan and turquoise energy. Overwhelming volumetric God rays pierce through heavy atmospheric fog and mystical haze, beaming down onto the tiny figure. The air is filled with shimmering dust and floating enchanted runes. Set inside a vast, dark cathedral-like sanctum, with tiny silhouetted crowds lining the deep shadow periphery. IMAX film grain, high dynamic range (HDR), deep chiaroscuro lighting, featuring a small, delicate text "Papersir626" written in a flowing brush script, rendered in bright pure white color, high contrast against the dark background, highly legible but discrete, professionally placed in the bottom right corner --ar 21:9 --stylize 400 --v 6.0
+
+参数,作用,示例
+--ar,宽高比,"--ar 16:9 (宽屏), --ar 9:16 (手机)"
+--v,模型版本,--v 6.0 (目前最强)
+--stylize,艺术化程度,--stylize 250 (数值越高越艺术)
+
