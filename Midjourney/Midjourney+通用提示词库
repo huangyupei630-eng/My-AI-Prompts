@@ -101,4 +101,58 @@ Awe-inspiring cinematic masterpiece, sweeping ultra-wide angle landscape shot. A
 }
 
 
-##3.
+##3.Male Version - Hannya Mask
+
+{
+  "manifest": {
+    "project_name": "Male_Hannya_Dual_Persona",
+    "version": "1.0.0_Male_Variant",
+    "source_image": "Male Version - Hannya Mask Portrait",
+    "created_at": "2025-11-30T15:30:00Z"
+  },
+  "render_context": {
+    "style_mode": "Japanese Digital Illustration (日式数字插画)",
+    "aesthetic": "Anime/Manga, Melancholic, Mysterious (动漫/漫画，忧郁，神秘)",
+    "texture_overlay": "Subtle Film Grain/Noise (细微胶片颗粒/噪点)",
+    "color_palette": {
+      "primary": ["Jet Black (乌黑)", "Deep Red (深红)", "Teal/Cyan (青绿)"],
+      "background": "Pale Peach/Beige (浅桃色/米色)",
+      "accents": "Gold (金色)"
+    },
+    "lighting": "Soft Frontal with Hard Cel-Shaded Shadows (柔和前光配合硬边赛璐璐阴影)"
+  },
+  "subject": {
+    "gender": "Male (男性)",
+    "appearance": {
+      "hair": "Jet black, messy medium length, bangs covering forehead (黑色中长发，凌乱蓬松，刘海遮额)",
+      "eyes": "Sharp red irises, upturned corners, red eyeliner (锐利红瞳，眼角上挑，红色眼线)",
+      "distinctive_mark": "Small red heart under left eye (左眼下红色心形泪痣)",
+      "expression": "Intense, contemplative, partially obscured (强烈，沉思，部分遮挡)"
+    },
+    "attire": {
+      "garment": "Traditional Kimono/Yukata (传统和服/浴衣)",
+      "color": "Teal/Cyan base with Gold Floral/Cloud patterns (青绿底色配金色花卉/云纹)",
+      "accessories": "Long red tassel earring on left ear (左耳红色长流苏耳坠)"
+    },
+    "pose": {
+      "gesture": "Right hand covering chin/mouth, fingers touching cheek (右手遮挡下巴/嘴巴，手指轻触脸颊)",
+      "head_tilt": "Slight tilt, direct gaze (头部微倾，直视)"
+    }
+  },
+  "mask_details": {
+    "type": "Red Hannya Mask (红色般若面具)",
+    "position": "Floating/Attached to right side of head (浮现/附着于头部右侧)",
+    "features": {
+      "expression": "Fierce, open mouth, fangs visible (凶猛，张嘴，獠牙外露)",
+      "horns": "Prominent red horn on right (右侧明显红角)",
+      "decoration": "Gold circular ornament on forehead (额头金色圆形装饰)"
+    }
+  },
+  "composition": {
+    "framing": "Close-up Portrait (特写肖像)",
+    "layout": "Asymmetrical balance (Subject Left, Mask Right) (非对称平衡：主体居左，面具居右)",
+    "background_style": "Flat, solid pale color (扁平纯色背景)"
+  }
+}
+
+
