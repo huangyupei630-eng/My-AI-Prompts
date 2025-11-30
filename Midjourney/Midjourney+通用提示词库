@@ -20,50 +20,85 @@ Awe-inspiring cinematic masterpiece, sweeping ultra-wide angle landscape shot. A
 --v,模型版本,--v 6.0 (目前最强)
 --stylize,艺术化程度,--stylize 250 (数值越高越艺术)
 
-##2.素描图
-
-
+##2.One Piece Chalk Art 4K Natural
 
 {
-  "image_analysis": {
-    "art_style": {
-      "genre": "Anime Pop Art / Graphic Design (二次元波普艺术 / 平面设计风格)",
-      "technique": "Vector illustration style (矢量插画风格)",
-      "visual_signature": "Monochrome character base with vibrant geometric overlays (黑白人物主体，叠加高饱和度彩色几何图形)",
-      "atmosphere": "Energetic, Chaotic, Trendy (充满活力，混沌，潮流感)"
-    },
-    "color_palette": {
-      "base": ["Black (黑)", "White (白)"],
-      "accents": [
-        "Vivid Blue (宝蓝)",
-        "Neon Red (霓虹红)",
-        "Acid Green (酸性绿)",
-        "Bright Yellow (明黄)",
-        "Electric Purple (电光紫)"
-      ],
-      "application": "Color blocking and sharp shards (色块撞色与尖锐碎片)"
-    },
-    "subject_details": {
-      "character": "Anime girl (二次元少女)",
-      "pose": "Head tilted back (头部后仰)",
-      "angle": "Low angle / Close-up (仰视/特写)",
-      "expression": "Confident smile, dynamic emotion (自信微笑，动态情绪)",
-      "facial_features": {
-        "eyes": "Exaggerated detail, one eye wide open with psychedelic concentric circles (pupil), distinct eyelashes (夸张细节，单眼睁大，瞳孔呈迷幻同心圆，睫毛分明)",
-        "markings": "Red heart and blue star decals on cheek (脸颊上有红色爱心和蓝色星星贴纸)",
-        "shadows": "Heavy black ink-style shading (重墨风格阴影)"
-      }
-    },
-    "graphic_elements": {
-      "shapes": "Lightning bolts, jagged shards, stars, splatter effects (闪电，锯齿碎片，星星，飞溅效果)",
-      "composition": "Collage-like layering (拼贴感分层)"
-    },
-    "text_content": {
-      "main_japanese": "イロトリドリノセカイ (Irotoridori no Sekai - Meaning: A Colorful World)",
-      "bottom_english": "THE MOTIF OF THIS WORK IS SIMPLE AND COLORFUL, AND GIVES COMFORT TO THE VIEWER.",
-      "background_watermark": "Faint repeating text overlays (背景隐约的重复文字覆盖)"
-    }
-  }
+  "manifest": {
+    "project_name": "One_Piece_Beach_Chalk_Mural_Final",
+    "version": "4.0.0_Release",
+    "render_resolution": "4K (5504x3072)",
+    "aspect_ratio": "16:9",
+    "created_at": "2025-11-30T15:10:00Z"
+  },
+  "render_context": {
+    "medium": "Analog Chalk Art (模拟粉笔画)",
+    "surface_material": "Weathered Outdoor Concrete/Blackboard Paint (风化室外水泥墙/黑板漆)",
+    "texture_quality": {
+      "finish": "Matte, Dusty (哑光，粉尘感)",
+      "stroke_style": "Visible Hatching, Soft Blending (可见排线，柔和晕染)",
+      "weathering": "Peeling paint edges, moss growth on frame, cracked plaster (边缘剥落，青苔，墙皮开裂)"
+    },
+    "lighting": "Natural Outdoor Ambient (Soft Daylight)"
+  },
+  "scene_composition": {
+    "layout_type": "Horizontal Ensemble (横向群像)",
+    "character_scaling": "Exaggerated Anime Proportions (Hourglass figures, Voluptuous)",
+    "visibility_check": "All characters visible waist-up (全员腰部以上可见)",
+    "background_elements": [
+      { "type": "drawing", "object": "Radiant Sun", "color": "Yellow", "location": "Top Left" },
+      { "type": "drawing", "object": "Palm Trees", "color": "Green/Brown", "location": "Sides" },
+      { "type": "drawing", "object": "Ocean Waves", "color": "Blue/White", "location": "Bottom" },
+      { "type": "drawing", "object": "Seagulls", "color": "White", "location": "Sky area" }
+    ]
+  },
+  "character_roster": [
+    {
+      "name": "Vinsmoke Reiju",
+      "position": "Far Left (最左)",
+      "attire": "Pink Bikini, Blue Scarf",
+      "pose": "Arms crossed, confident side stance"
+    },
+    {
+      "name": "Shirahoshi",
+      "position": "Mid-Left (左中)",
+      "attire": "Yellow Scallop Bikini, Mermaid Tail",
+      "pose": "Leaning forward, curious expression, large scale"
+    },
+    {
+      "name": "Boa Hancock",
+      "position": "Center (C位)",
+      "attire": "Deep Red/Burgundy Patterned Bikini",
+      "pose": "Hand on hip, arm behind head, imperious gaze"
+    },
+    {
+      "name": "Nico Robin",
+      "position": "Mid-Right Back (右中后)",
+      "attire": "Dark Blue/Purple Bikini, Sunglasses on head",
+      "pose": "Elegant standing, slightly behind Nami"
+    },
+    {
+      "name": "Nami",
+      "position": "Mid-Right Front (右中前)",
+      "attire": "Teal/Green Striped Bikini",
+      "pose": "Winking, holding tangerine, playful"
+    },
+    {
+      "name": "Yamato",
+      "position": "Far Right (最右)",
+      "attire": "White Bikini with Purple Rope details",
+      "pose": "Fist clenched, strong stance, horns visible"
+    }
+  ],
+  "watermark_layer": {
+    "content": [
+      "©️ papersir626",
+      "@salami1132031"
+    ],
+    "style": "White Chalk, Semi-transparent",
+    "position": "Bottom Left Quadrant (Over waves/tail area)",
+    "alignment": "Left-aligned"
+  }
 }
 
-1:1
+
+##3.
